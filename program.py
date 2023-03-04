@@ -8,6 +8,6 @@
 
 result = ""
 for myNumber in range(32):
-  result = myNumber
+  result = result + myNumber
 
 print(result)
