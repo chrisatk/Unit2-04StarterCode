@@ -6,5 +6,8 @@
 # For multiples of 15, output   FizzBuzz
 # End at 32
 
+result = ""
 for myNumber in range(32):
-  print(myNumber)
+  result = myNumber
+
+print(result)
