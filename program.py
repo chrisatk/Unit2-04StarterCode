@@ -1,5 +1,10 @@
 # My Python Program
-# Task:  Use the function myFunction to output a simple "Hello World!" statement
+# Task:  use if statements to output the result of the game fizzbuzz.  
+# Start at 1
+# For multiples of 3, output   Fizz
+# For multiples of 5, output   Buzz
+# For multiples of 15, output   FizzBuzz
+# End at 32
 
-def myFunction():
-  # My Function
+for myNumber in range(32):
+  print(myNumber)
